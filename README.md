@@ -7,7 +7,7 @@
 📫 Let’s Connect!<br>Feel free to explore my repositories, where I share projects showcasing my analytical skills and data storytelling. I’m always eager to connect with fellow data enthusiasts and explore collaboration opportunities!<br><br>
 📫 How to reach me [Gmail](ankkityadavofficial270@gmail.com)
 
-(![image](https://github.com/user-attachments/assets/6e611b29-5772-46e3-8c76-1cf1d05300bb)
+(![image](https://github.com/user-attachments/assets/6e611b29-5772-46e3-8c76-1cf1d05300bb))
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankityadav0/) 
 
