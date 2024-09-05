@@ -1,7 +1,12 @@
 
+<img class="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.onebridge.tech%2Fpost%2Fwhat-is-a-data-analyst-and-should-i-hire-one&psig=AOvVaw2r8_eiVeaEjfjipmqmgsDB&ust=1725654991288000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPihj_fTrIgDFQAAAAAdAAAAABAK">
 
 # 💫 About Me:
-👋 Hi there! I'm Ankit Yadav<br>I’m a data analyst with a passion for uncovering valuable insights from data. With expertise in Excel, Google Sheets, SQL, and Python, I leverage various data tools to analyze and interpret complex datasets, driving informed decision-making.<br><br>🌱 Currently, I'm focusing on:<br>Developing data-driven solutions to optimize business processes.<br>Exploring advanced analytics techniques to derive deeper insights.<br>Creating interactive dashboards and visualizations for effective data presentation.<br>🔧 Skills:<br>Data Analysis: Excel, Google Sheets, SQL<br>Programming: Python<br>Data Visualization: Power BI, Matplotlib, Seaborn<br>📫 Let’s Connect!<br>Feel free to explore my repositories, where I share projects showcasing my analytical skills and data storytelling. I’m always eager to connect with fellow data enthusiasts and explore collaboration opportunities!<br><br>
+👋 Hi there! I'm Ankit Yadav<br>I’m a data analyst with a passion for uncovering valuable insights from data. With expertise in Excel, Google Sheets, SQL, and Python, I leverage various data tools to analyze and interpret complex datasets, driving informed decision-making.<br><br>
+🌱 Currently, I'm focusing on:<br>Developing data-driven solutions to optimize business processes.<br>Exploring advanced analytics techniques to derive deeper insights.<br>Creating interactive dashboards and visualizations for effective data presentation.<br>
+🔧 Skills:<br>Data Analysis: Excel, Google Sheets, SQL<br>Programming: Python<br>Data Visualization: Power BI, Matplotlib, Seaborn<br>
+📫 Let’s Connect!<br>Feel free to explore my repositories, where I share projects showcasing my analytical skills and data storytelling. I’m always eager to connect with fellow data enthusiasts and explore collaboration opportunities!<br><br>
+📫 How to reach me [Gmail](ankkityadavofficial270@gmail.com)
 
 
 ## 🌐 Socials:
