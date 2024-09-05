@@ -8,7 +8,7 @@
 📫 How to reach me [Gmail](ankkityadavofficial270@gmail.com)
 
 ![image](https://miro.medium.com/v2/resize:fit:679/0*0JBZx8rioVbrR4vJ.gif) ![image](https://media.tenor.com/McPQygGOuXYAAAAj/gladgers-hacker-gers-guardians-of-galaxy.gif) 
-![image](https://cdn.dribbble.com/users/653185/screenshots/3701461/hacker.gif)
+![image](https://cdn.dribbble.com/users/653185/screenshots/3701461/hacker.gif) ![Image](https://media4.giphy.com/media/xT9C25UNTwfZuk85WP/200w.gif?cid=6c09b9520wkaazoorldlybbczsfs6a12vwlzim47iu71fg7x&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 
 ## 🌐 Socials:
