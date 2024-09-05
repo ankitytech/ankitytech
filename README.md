@@ -7,8 +7,9 @@
 📫 Let’s Connect!<br>Feel free to explore my repositories, where I share projects showcasing my analytical skills and data storytelling. I’m always eager to connect with fellow data enthusiasts and explore collaboration opportunities!<br><br>
 📫 How to reach me [Gmail](ankkityadavofficial270@gmail.com)
 
-![image](https://miro.medium.com/v2/resize:fit:679/0*0JBZx8rioVbrR4vJ.gif) ![image](https://cdn.dribbble.com/users/653185/screenshots/3701461/hacker.gif)
-![image](https://miro.medium.com/v2/resize:fit:1400/1*wJZGEym7WOFqwIi3uVpmJQ.gif)
+![image](https://miro.medium.com/v2/resize:fit:679/0*0JBZx8rioVbrR4vJ.gif) ![image](https://media.tenor.com/McPQygGOuXYAAAAj/gladgers-hacker-gers-guardians-of-galaxy.gif) 
+![image](https://cdn.dribbble.com/users/653185/screenshots/3701461/hacker.gif)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankityadav0/) 
